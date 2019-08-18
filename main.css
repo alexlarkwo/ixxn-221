@@ -5,30 +5,15 @@ margin:0px;
 overflow: auto;
 }
 
-p {
+p, a, h2, h5, h4 {
   font-family: 'Fira Sans', sans-serif;
 }
 
-a{
-  font-family: 'Fira Sans', sans-serif;
-}
 
 h1{
   font-family: 'Oswald', sans-serif;
 }
 
-h2{
-  font-family: 'Fira Sans', sans-serif,monospace;
-
-}
-
-h5{
-  font-family: 'Fira Sans', sans-serif,monospace;
-
-}
-.firasansfont{
-font-family: 'Fira Sans', sans-serif;
-}
 
 .reflection-button{
 text-decoration: none;
@@ -184,4 +169,10 @@ margin:8px ;
 height:150px;
 width:100px;
 padding:8px;
+}
+
+.small-para{
+  text-align: center;
+  margin-top: 110px;
+  padding: 8px;
 }
