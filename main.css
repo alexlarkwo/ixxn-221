@@ -1,11 +1,11 @@
 body{
-background-color:#83D1F7;
+background-color:#CEEBF9;
 padding: 0px;
 margin:0px;
 overflow: auto;
 }
 
-p, a, h2, h5, h4 {
+p, a, h2, h5, h4,label,button {
   font-family: 'Fira Sans', sans-serif;
 }
 
@@ -55,6 +55,7 @@ font-size: 20px;
   float:right;
   text-decoration: underline;
   color: #ffffff;
+  padding: 5px;
 }
 
 .title-navigation{
@@ -88,7 +89,7 @@ font-size: 20px;
 .header-image-and-title{
 padding: 20px;
 width: 1245px;
-background-image: url("placeholder.jpg");
+/* background-image: url("placeholder.jpg"); */
 float:right;
 
 }
