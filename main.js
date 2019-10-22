@@ -51,12 +51,3 @@ if (randomNumber){
  }
  document.getElementById('showClicks').innerHTML = `<p> ${count} </p>`;
 }
-
-
-//
-// function closenessZone() {
-//   if (){
-//
-// document.getElementById('howClose').innerHTML = <h1> CLoseness Zone </h1>
-//   }
-// }
